@@ -20,4 +20,4 @@ jobs:
 
       - name: Build and run Node.js app
         run: |
-          node sample3.js
+          node app.js
